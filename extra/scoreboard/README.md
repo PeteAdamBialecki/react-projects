@@ -25,6 +25,10 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
+If you're uploading to your website or something like that, you need to add the following to the package.json.
+
+### `"homepage": "https://www.peteadambialecki.com/github/website/scoreboard/"`
+
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`

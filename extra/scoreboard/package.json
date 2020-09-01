@@ -1,6 +1,7 @@
 {
   "name": "scoreboard-2",
   "version": "0.1.0",
+  "homepage": "https://www.peteadambialecki.com/github/website/scoreboard/",
   "private": true,
   "dependencies": {
     "prop-types": "^15.7.2",
