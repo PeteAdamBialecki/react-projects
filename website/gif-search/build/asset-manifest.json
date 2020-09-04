@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github/website/gif-search/static/css/main.a7be0049.chunk.css",
+    "main.js": "/github/website/gif-search/static/js/main.868210eb.chunk.js",
+    "main.js.map": "/github/website/gif-search/static/js/main.868210eb.chunk.js.map",
+    "runtime-main.js": "/github/website/gif-search/static/js/runtime-main.30a0b039.js",
+    "runtime-main.js.map": "/github/website/gif-search/static/js/runtime-main.30a0b039.js.map",
+    "static/js/2.ff600fea.chunk.js": "/github/website/gif-search/static/js/2.ff600fea.chunk.js",
+    "static/js/2.ff600fea.chunk.js.map": "/github/website/gif-search/static/js/2.ff600fea.chunk.js.map",
+    "index.html": "/github/website/gif-search/index.html",
+    "precache-manifest.6e6bd5d48d26e870c9ef7c778fcb79ab.js": "/github/website/gif-search/precache-manifest.6e6bd5d48d26e870c9ef7c778fcb79ab.js",
+    "service-worker.js": "/github/website/gif-search/service-worker.js",
+    "static/css/main.a7be0049.chunk.css.map": "/github/website/gif-search/static/css/main.a7be0049.chunk.css.map",
+    "static/js/2.ff600fea.chunk.js.LICENSE.txt": "/github/website/gif-search/static/js/2.ff600fea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30a0b039.js",
+    "static/js/2.ff600fea.chunk.js",
+    "static/css/main.a7be0049.chunk.css",
+    "static/js/main.868210eb.chunk.js"
+  ]
+}
