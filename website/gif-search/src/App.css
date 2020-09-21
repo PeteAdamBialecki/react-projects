@@ -1,6 +1,12 @@
+
 /* ================================= 
   Element Styles
 ==================================== */
+
+/* Repo Update */
+@import url("./css/themify-icons.css");
+@import url("./css/bootstrap.css");
+@import url("./css/fonts.css");
 
 * {
   box-sizing: border-box;
