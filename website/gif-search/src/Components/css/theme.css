@@ -3,7 +3,6 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   line-height: 24px;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #666;
   overflow-x: hidden;
 }
@@ -729,6 +728,10 @@ footer.bg-dark a {
 .bg-dark .back-to-top:hover {
   background: none;
 }
-.footer-2 span, .footer-2 h5 {
+.footer-2 span, .footer-2 h5, .social-list i {
     opacity: 0.5 ! important;
+    color: #000000 ! important;
+}
+.social-list i:hover {
+    opacity: 1 ! important;
 }
