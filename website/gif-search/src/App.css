@@ -4,16 +4,16 @@
 ==================================== */
 
 /* Repo Update */
-@import url("./css/themify-icons.css");
-@import url("./css/bootstrap.css");
-@import url("./css/fonts.css");
+@import url("./Components/css/bootstrap.css");
+@import url("./Components/css/fonts.css");
+@import url("./Components/css/theme.css");
+@import url("./Components/css/themify-icons.css");
 
 * {
   box-sizing: border-box;
 }
 
 body {
-  font: 1em/1.5 'Roboto', sans-serif;
   color: #4c4c4c;
   background: #a4a3a1;
   padding-top: 145px;
@@ -197,7 +197,7 @@ button {
   .search-form {
     width: 422px;
     float: right;
-    margin-top: 34px;
+    margin-top: 24px;
   }
   .gif-list li {
     width: 33.333333333%;

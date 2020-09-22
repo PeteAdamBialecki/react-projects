@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import './App.css';
-import './js/js';
 import axios from 'axios';
 import SearchForm from './Components/SearchForm';
 import GifList from './Components/GifList';
@@ -41,7 +40,6 @@ export default class App extends Component {
     }
 
     render() {
-        console.log(this.state.gifs);
         return (
             <div>
                 <div className="main-header">
