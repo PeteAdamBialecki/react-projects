@@ -6,7 +6,7 @@ const Header = () => {
     return (
         <header>
             <Stats />
-            <h1>Scoreboard</h1>
+            <h1>Scoreboards</h1>
             <Stopwatch />
         </header>
     );
